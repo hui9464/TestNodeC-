@@ -1,0 +1,6 @@
+Release/obj.target/test/test.o: ../test.cc \
+  /Users/hui/.node-gyp/7.10.0/include/node/node.h \
+  /Users/hui/.node-gyp/7.10.0/include/node/v8.h \
+  /Users/hui/.node-gyp/7.10.0/include/node/v8-version.h \
+  /Users/hui/.node-gyp/7.10.0/include/node/v8config.h \
+  /Users/hui/.node-gyp/7.10.0/include/node/node_version.h
